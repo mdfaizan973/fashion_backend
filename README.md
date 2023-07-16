@@ -1,12 +1,8 @@
 # fashion_backend
+![Screenshot (1534)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/49de4bc7-d3fd-4b5b-8065-cbb0dc8d541a)
 
 ![Screenshot (1533)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/3dda814f-562a-417d-a43a-0d7f24f0b521)
-
-
 ![Screenshot (1532)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/6360d5ec-d876-4c51-baca-c0c63ed0e1c2)
-
-
-
 ![Screenshot (1531)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/dd9a140c-6e69-4cd6-b585-96a58564a035)
 ![Screenshot (1530)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/5d7d5bbd-aa04-4a2a-af09-2b140e2dfd12)
 ![Screenshot (1529)](https://github.com/mdfaizan973/fashion_backend/assets/106812942/de2fad04-379e-42cc-b0e0-4d3ec4cf28e3)
